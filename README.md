@@ -14,9 +14,9 @@ Usage of MaskPhish for attacking targets without prior mutual consent is illegal
 
 1) First you run zphisher.sh to create a ngrok url with a custom configuration. (Gmail,Facebook.Instagram etc)
 
-2)Then you use the url ngrok as input for maskphish.sh and you change the url in order to make more realistic
+2) Then you use the url ngrok as input for maskphish.sh and you change the url in order to make more realistic
 
-3)Have fun
+3) Have fun
 
 ## Screenshot
 <p align="center">
